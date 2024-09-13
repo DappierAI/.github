@@ -5,12 +5,12 @@ Dappier’s RAG (Retrieval-Augmented Generation) API marketplace designed to sup
 
 Fully LLM-agnostic and ready to integrate with any AI system, Dappier enables seamless, scalable access to real-time RAG data. Whether you’re developing cutting-edge AI solutions or scaling existing applications, our APIs provide a real-time, production-ready framework, allowing you to focus on building while we handle the data.
 
-Checkout our developer documentation for more information:
+Checkout our [developer documentation](https://docs.dappier.com) for more information:
 
 
  <a
     href="https://docs.dappier.com/">
-        <img src="https://platform.dappier.com/assets/images/logo/dappier_light_logo.png" />
+        <img src="https://dappier-prod-pull.b-cdn.net/dappier_logo.png" />
   </a>
 
 ### Publishers:
@@ -19,12 +19,12 @@ Dappier offers publishers an easy-to-use platform to convert your content into L
 
 Leverage our turnkey widgets and APIs to build custom AI-powered experiences, increasing engagement on your sites while generating additional revenue with Dappier!
 
-Checkout our platform for more information:
+Checkout our [platform](https://platform.dappier.com) for more information:
 
 
 ​<a
     href="https://platform.dappier.com/">
-        <img src="https://platform.dappier.com/assets/images/logo/dappier_light_logo.png" />
+        <img src="https://dappier-prod-pull.b-cdn.net/dappier_logo.png" />
   </a>
 
 
